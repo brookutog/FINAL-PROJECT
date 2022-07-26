@@ -1,0 +1,62 @@
+   body {
+    background-image: url(44.jpg);
+    background-repeat: no-repeat;
+    background-size: large;
+    border-color:lightgray;
+    border-style: double;
+   }
+
+   h1{
+    background-color: rgb(173,216,230);
+    color: rgb(34,139,34);
+    font-style: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-color:lightgray;
+    border-style: double;
+    opacity: 75%;
+    border-radius: 0%;
+    outline-style: outset;
+    outline-color: gray;
+    text-shadow: 2px 2px 5px rgb(192,192,192);
+    border: 5px solid blue;
+    text-align: center;
+   }
+
+   h2{
+
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-stretch: expanded;
+    font-kerning: normal;
+    animation: alternate-reverse;
+    text-shadow: 3px 2px 5px rgb(203, 195, 227);
+    opacity: 100%;
+    text-align: center;
+
+   }
+
+   h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color:rgb(170, 152, 190);
+    opacity: 90%;
+    font-style: 0%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 5px;
+    text-align: justify;
+    color:black;
+    text-align: center;
+    text-align-last: justify justify;
+   }
+
+   br{
+    color:rgb(169, 169, 169);
+
+   }
+
+   h1:hover {background-color:aquamarine; transform: scale(1,3);}
+   p:hover { background-color:aquamarine; transform: matrix3d();}
+   h1:hover { background-color:aquamarine; transform: martix();}
+   h2:hover {transform: scale(1.1);}
+   h1,h3{transform: .2; transform: matrix(1);}
