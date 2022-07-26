@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<head>
+<center>
+<form>
+<h1> Activity 1</h1>
+</head>
+</center>
+
+<body style="background; url(image.jpg);background-size: 100% 100%">
+<form>
+<center>
+<br>
+<font color="black">
+<h1> DISCORD </h1>
+<h3> isa itong application na kong saan ang user nito ay pwede makipag chat at video chat sa ibang tao at marami itong advance bot commands na hindi gaya sa ibang application</h3>
+</th>
+</tr><br>
+</font>
+<tr>
+<font color="green">
+<h1> GOOGLE CLASSROOM </h1>
+<h3> ito ay isa sa pinakamahalagang application na ginagait ng mga estudyante dahil dito nilalagay ng mga teachers ang quizes at activity na pinapagawa nila</h3>
+</th>
+</tr><br>
+</font>
+<tr>
+<font color="red">
+<h1> YOUTUBE </h1>
+<h3> ito at maaring gamitin sa pag aaral at ginagamt din ito sa pag eentertain ng tao at ginagamit din sa pag vovlog
+</th>
+</tr>
+</font>
+<tr>
+<font color="yellow">
+<h1> GOOGLE </h1>
+<h3> sa panahon ngayon ang google ay isa sa pinakamahalagang application sa mundo dahil ito ay ginagamit ng mga magaaral at mga trabahador sa opisina at marami pang iba</h3>
+</th>
+</tr>
+</font>
+<tr>
+<font color-"blue">
+<h1> FACEBOOK </h1>
+<h3> ang facebook ay ginagamit sa pagkikipagkuminikasyon sa ibang tao ay ito ay ginagamit sa pag sstream at marami pag iba</h3>
+</th>
+</tr>
+</font>
+
+<form>
+<table style="border:1px solid black; width:60% margin-left: auto;
+margin-right: auto; margin-top: 2rem">
+
+   <tr>
+   <th rowspan="6" style="border:1px solid black; color; #000000; font-size; 30px;">Search</th>
+   <th clospan="2" style="border:1px solid black; color; #000000; font-size; 30px;">Browser</th>
+   <th style="border:1px solid black; color; #051367; font-size; 30px;">Website</th>
+   <th style="border:1px solid black; color; #051367; font-size; 30px;">Links</th>
+   </tr>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">Chrome</td>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">FireFox</td>
+   <td style="border:1px solid black; color; #000000; font-size"> DISCORD </td>
+   <td style="border:1px solid black; color; #000000; font-size"><a href="https://discord.com/" target="_blank">https://discord.com/</a></td>
+   </tr>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">Chrome</td>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">FireFox</td>
+   <td style="border:1px solid black; color; #000000; font-size"> GOOGLE CLASSROOM </td>
+   <td style="border:1px solid black; color; #000000; font-size"><a href="https://classroom.google.com/u/0/" target="_blank">https://classroom.google.com/u/0/</a></td>
+   </tr>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">Chrome</td>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">FireFox</td>
+   <td style="border:1px solid black; color; #000000; font-size"> YOUTUBE </td>
+   <td style="border:1px solid black; color; #000000; font-size"><a href="https://www.youtube.com/" target="_blank">https://www.youtube.com/</a></td>
+   </tr>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">Chrome</td>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">FireFox</td>
+   <td style="border:1px solid black; color; #000000; font-size"> GOOGLE </td>
+   <td style="border:1px solid black; color; #000000; font-size"><a href="https://www.google.com.ph/" target="_blank">https://www.google.com.ph/</a></td>
+   </tr>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">Chrome</td>
+   <td style="border:1px solid black; color; #203239; color; #000000; font-size 25px;">FireFox</td>
+   <td style="border:1px solid black; color; #000000; font-size"> FACEBOOK </td>
+   <td style="border:1px solid black; color; #000000; font-size"><a href="https://www.facebook.com/" target="_blank">https://www.facebook.com/</a></td>
+   </tr>
+   </table>
+   </form>
+   </center>
+   </body>
+   </html>
